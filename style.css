@@ -1,0 +1,185 @@
+#tick{
+background-color: black;
+color: white;
+text-align: center;
+
+}
+#image{
+    background-color: black;
+    height: 80px;
+    position: left;
+
+}
+#email{
+    display: flex;
+    gap: 200%;
+    
+}
+.phone{
+    text-align: center;
+
+}
+#up{
+    gap: 300%;
+    padding: 90px;
+    margin-bottom: 100px;
+
+}
+
+    #container{
+position: relative;
+text-align: center;
+color: black;
+    }
+
+
+.main{
+    position: relative;
+}
+.icon{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    bottom: 50%;
+    left: 40%;
+
+
+}
+.h1{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    left: 10%;
+    
+    
+
+}
+.paragraph{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+
+
+}
+#moving{
+    display: flex;
+    gap: 30%;
+    margin-bottom: 100px;
+
+
+
+}
+#list{
+    display:flex;
+    list-style: none;
+    gap: 70px;
+    padding: bottom;
+    margin-bottom: 100px;
+    height: 2opx;
+    width: 20px;
+}
+#icons{
+    display: flex;
+    gap: 20%;
+
+}
+#footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 50%;
+}
+#space{
+    padding-bottom: 20px;
+    
+}
+#top{
+    display: flex;
+    background-color: orange;
+    color: white;
+    gap: 10%;
+    width : 10opx;
+    height : 100px;
+    text-align:center;
+
+}
+#up{
+  height: 20px; 
+  width: 20px
+}
+#copy{
+    height: 20px;
+    width: 20px;
+}
+#button{
+
+    color: white;
+}
+#container3{
+    display: flex;
+    position: relative;
+    gap:10%;
+    margin: bottom 100px;
+}
+#news{
+    text-align: center;
+}
+#email{
+    display: flex;
+    gap: 70%;
+}
+#container2{
+
+display: flex;
+position: relative;
+gap: 15%;
+margin-bottom: 100px;
+text-align: center;
+}
+#local{
+    display: flex;
+    background-color: blue;
+    width: 100%;
+}
+#storage{
+    background-color: blue;
+    color: white;
+    height: 200px;
+    margin-bottom: 100px;
+}
+#services{
+  text-align: center;  
+}
+#Clients{
+    display: flex;
+    gap: 20%;
+}
+#verified{
+    display: flex;
+    margin-bottom: 100px;
+}
+#i1{
+    height: 30px;
+    width: 30px;
+}
+#i2{
+    height: 30px;
+    width: 30px;  
+}
+#i3{
+    height: 30px;
+    width: 30px;
+}
+#book{
+    background-color: orange;
+    color: white;
+    width: 50%;
+}
+#quote{
+    display: flex;
+}
+#testimonials{
+text-align: center;
+font-size: xx-large;
+font: bolder;
+}
